@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Backup-Disaster-Recovery/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Backup-Disaster-Recovery?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Backup-Disaster-Recovery/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Backup-Disaster-Recovery?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Backup-Disaster-Recovery/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Backup-Disaster-Recovery?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Backup-Disaster-Recovery/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,66 +56,66 @@ Enterprise SaaS solutions sorted descending by company scale (market capitalizat
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source repositories powering self-hosted, cloud-native, and infrastructure-as-code disaster recovery. Sorted descending by GitHub star count:
+Explore the top open-source repositories powering self-hosted, cloud-native, and infrastructure-as-code disaster recovery. Sorted descending by GitHub Stars_Count:
 
-- **[Rclone](https://github.com/rclone/rclone)** [![GitHub stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
+- **[Rclone](https://github.com/rclone/rclone)** [![GitHub_Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
   ⚡ *60k+ Stars* • High-performance command-line program to sync and transfer files across 70+ cloud storage backends (AWS S3, Google Drive, Azure Blob, Dropbox, Backblaze B2, SFTP, and WebDAV) with on-the-fly encryption, compression, and virtual mount support.
 
-- **[Restic](https://github.com/restic/restic)** [![GitHub stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
+- **[Restic](https://github.com/restic/restic)** [![GitHub_Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
   ⚡ *36k+ Stars* • Secure, fast, and modern backup program written in Go. Features zero-trust authenticated cryptography, content-defined chunking and deduplication, atomic snapshot management, and native streaming to local disks, SFTP, REST, S3, MinIO, and Azure.
 
-- **[Kopia](https://github.com/kopia/kopia)** [![GitHub stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers)  
+- **[Kopia](https://github.com/kopia/kopia)** [![GitHub_Stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers)  
   ⚡ *14k+ Stars* • Fast cross-platform backup and restore tool for Windows, macOS, and Linux. Built with client-side end-to-end encryption, multi-codec compression, global deduplication, customizable scheduling, CLI, and intuitive desktop/web graphical interfaces.
 
-- **[BorgBackup](https://github.com/borgbackup/borg)** [![GitHub stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
+- **[BorgBackup](https://github.com/borgbackup/borg)** [![GitHub_Stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
   ⚡ *13k+ Stars* • Battle-tested deduplicating archiver with authenticated AES-256 encryption. Delivers space-efficient differential backups, mountable FUSE filesystem archives, append-only repository protection against ransomware, and granular retention pruning.
 
-- **[Velero](https://github.com/vmware-tanzu/velero)** [![GitHub stars](https://img.shields.io/github/stars/vmware-tanzu/velero?style=social&color=white)](https://github.com/vmware-tanzu/velero/stargazers)  
+- **[Velero](https://github.com/vmware-tanzu/velero)** [![GitHub_Stars](https://img.shields.io/github/stars/vmware-tanzu/velero?style=social&color=white)](https://github.com/vmware-tanzu/velero/stargazers)  
   ⚡ *10k+ Stars* • Industry-standard Kubernetes backup, disaster recovery, and workload migration tool. Backs up cluster resource manifests and persistent volume snapshots across AWS, Azure, GCP, and on-premises storage plugins with scheduled DR rehearsals.
 
-- **[Longhorn](https://github.com/longhorn/longhorn)** [![GitHub stars](https://img.shields.io/github/stars/longhorn/longhorn?style=social&color=white)](https://github.com/longhorn/longhorn/stargazers)  
+- **[Longhorn](https://github.com/longhorn/longhorn)** [![GitHub_Stars](https://img.shields.io/github/stars/longhorn/longhorn?style=social&color=white)](https://github.com/longhorn/longhorn/stargazers)  
   ⚡ *8k+ Stars* • CNCF graduated cloud-native distributed block storage built natively for Kubernetes. Provides built-in thin-provisioned snapshots, scheduled incremental backups to secondary object storage (S3/NFS), and cross-cluster active-standby DR volume replication.
 
-- **[pgBackRest](https://github.com/pgbackrest/pgbackrest)** [![GitHub stars](https://img.shields.io/github/stars/pgbackrest/pgbackrest?style=social&color=white)](https://github.com/pgbackrest/pgbackrest/stargazers)  
+- **[pgBackRest](https://github.com/pgbackrest/pgbackrest)** [![GitHub_Stars](https://img.shields.io/github/stars/pgbackrest/pgbackrest?style=social&color=white)](https://github.com/pgbackrest/pgbackrest/stargazers)  
   ⚡ *4.4k+ Stars* • High-throughput, production-grade backup and restore orchestrator for PostgreSQL. Features parallelized full/differential/incremental backups, delta restores, page checksum verification, encryption, and direct streaming to AWS S3, Azure Blob, and GCS.
 
-- **[WAL-G](https://github.com/wal-g/wal-g)** [![GitHub stars](https://img.shields.io/github/stars/wal-g/wal-g?style=social&color=white)](https://github.com/wal-g/wal-g/stargazers)  
+- **[WAL-G](https://github.com/wal-g/wal-g)** [![GitHub_Stars](https://img.shields.io/github/stars/wal-g/wal-g?style=social&color=white)](https://github.com/wal-g/wal-g/stargazers)  
   ⚡ *4.3k+ Stars* • Modern archival and disaster restoration tool for cloud-hosted databases. Successor to WAL-E written in Go, providing continuous Write-Ahead Log (WAL) archiving and point-in-time recovery for PostgreSQL, MySQL, MongoDB, Redis, and FoundationDB.
 
-- **[Barman](https://github.com/EnterpriseDB/barman)** [![GitHub stars](https://img.shields.io/github/stars/EnterpriseDB/barman?style=social&color=white)](https://github.com/EnterpriseDB/barman/stargazers)  
+- **[Barman](https://github.com/EnterpriseDB/barman)** [![GitHub_Stars](https://img.shields.io/github/stars/EnterpriseDB/barman?style=social&color=white)](https://github.com/EnterpriseDB/barman/stargazers)  
   ⚡ *3.2k+ Stars* • Backup and Recovery Manager for PostgreSQL (GPL-3.0), maintained by EnterpriseDB. Enables remote continuous backups of multiple PostgreSQL clusters in enterprise deployments with zero-data-loss RPO and Point-In-Time Recovery (PITR).
 
-- **[Plakar](https://github.com/PlakarKorp/plakar)** [![GitHub stars](https://img.shields.io/github/stars/PlakarKorp/plakar?style=social&color=white)](https://github.com/PlakarKorp/plakar/stargazers)  
+- **[Plakar](https://github.com/PlakarKorp/plakar)** [![GitHub_Stars](https://img.shields.io/github/stars/PlakarKorp/plakar?style=social&color=white)](https://github.com/PlakarKorp/plakar/stargazers)  
   ⚡ *2.0k+ Stars* • Modern open-source backup framework (ISC license) powered by the "Kloset" format. Delivers client-side zero-knowledge encryption, source-level content chunking, immutable snapshot repositories, and connectors for files, databases, S3, and SaaS endpoints.
 
-- **[Bareos](https://github.com/bareos/bareos)** [![GitHub stars](https://img.shields.io/github/stars/bareos/bareos?style=social&color=white)](https://github.com/bareos/bareos/stargazers)  
+- **[Bareos](https://github.com/bareos/bareos)** [![GitHub_Stars](https://img.shields.io/github/stars/bareos/bareos?style=social&color=white)](https://github.com/bareos/bareos/stargazers)  
   ⚡ *1.2k+ Stars* • 100% open-source enterprise cross-network backup solution (AGPL-3.0). Reliably coordinates client-storage-director architectures, archiving and recovering heterogeneous environments across Linux, Windows, macOS, cloud object stores, and physical tape libraries.
 
-- **[Relax-and-Recover (ReaR)](https://github.com/rear/rear)** [![GitHub stars](https://img.shields.io/github/stars/rear/rear?style=social&color=white)](https://github.com/rear/rear/stargazers)  
+- **[Relax-and-Recover (ReaR)](https://github.com/rear/rear)** [![GitHub_Stars](https://img.shields.io/github/stars/rear/rear?style=social&color=white)](https://github.com/rear/rear/stargazers)  
   ⚡ *1.1k+ Stars* • The foremost bare-metal disaster recovery and system migration framework for Linux. Automatically generates bootable rescue media (ISO, PXE, USB) while seamlessly integrating with Borg, Bacula, Bareos, Duplicity, and enterprise backup backends.
 
-- **[UrBackup](https://github.com/uroni/urbackup_backend)** [![GitHub stars](https://img.shields.io/github/stars/uroni/urbackup_backend?style=social&color=white)](https://github.com/uroni/urbackup_backend/stargazers)  
+- **[UrBackup](https://github.com/uroni/urbackup_backend)** [![GitHub_Stars](https://img.shields.io/github/stars/uroni/urbackup_backend?style=social&color=white)](https://github.com/uroni/urbackup_backend/stargazers)  
   ⚡ *930+ Stars* • Client/server network backup solution for Windows, macOS, and Linux. Performs continuous background file-level backups and image-level volume snapshots without disrupting active operating system operations.
 
-- **[Kanister](https://github.com/kanisterio/kanister)** [![GitHub stars](https://img.shields.io/github/stars/kanisterio/kanister?style=social&color=white)](https://github.com/kanisterio/kanister/stargazers)  
+- **[Kanister](https://github.com/kanisterio/kanister)** [![GitHub_Stars](https://img.shields.io/github/stars/kanisterio/kanister?style=social&color=white)](https://github.com/kanisterio/kanister/stargazers)  
   ⚡ *880+ Stars* • CNCF sandbox framework for application-level data management in Kubernetes. Orchestrates blueprint-driven application-consistent backups, restore routines, and cross-region DR failovers for stateful enterprise databases.
 
-- **[BackupSheep](https://github.com/bilal414/backupsheep)** [![GitHub stars](https://img.shields.io/github/stars/bilal414/backupsheep?style=social&color=white)](https://github.com/bilal414/backupsheep/stargazers)  
+- **[BackupSheep](https://github.com/bilal414/backupsheep)** [![GitHub_Stars](https://img.shields.io/github/stars/bilal414/backupsheep?style=social&color=white)](https://github.com/bilal414/backupsheep/stargazers)  
   ⚡ *190+ Stars* • Automated server and database snapshot backup platform. Provides automated preflight disk checks, instant one-click restores, credential encryption, and multi-channel alerting across Slack, Discord, and Telegram.
 
-- **[Bacula-Web](https://github.com/bacula-web/bacula-web)** [![GitHub stars](https://img.shields.io/github/stars/bacula-web/bacula-web?style=social&color=white)](https://github.com/bacula-web/bacula-web/stargazers)  
+- **[Bacula-Web](https://github.com/bacula-web/bacula-web)** [![GitHub_Stars](https://img.shields.io/github/stars/bacula-web/bacula-web?style=social&color=white)](https://github.com/bacula-web/bacula-web/stargazers)  
   ⚡ *150+ Stars* • Web-based monitoring and analytical reporting dashboard for Bacula backup infrastructure, tracking backup catalogs, director jobs, pool health, and storage utilization.
 
-- **[Stronghold](https://github.com/mehdi-arfaoui/stronghold)** [![GitHub stars](https://img.shields.io/github/stars/mehdi-arfaoui/stronghold?style=social&color=white)](https://github.com/mehdi-arfaoui/stronghold/stargazers)  
+- **[Stronghold](https://github.com/mehdi-arfaoui/stronghold)** [![GitHub_Stars](https://img.shields.io/github/stars/mehdi-arfaoui/stronghold?style=social&color=white)](https://github.com/mehdi-arfaoui/stronghold/stargazers)  
   ⚡ *36+ Stars* • Open-source disaster recovery automation platform for cloud infrastructure. Features DR contract validation, RTO/RPO verification, infrastructure dependency graphing, single-point-of-failure detection, and automated CI/CD DR compliance gates.
 
-- **[Snapr](https://github.com/maximseshuk/snapr)** [![GitHub stars](https://img.shields.io/github/stars/maximseshuk/snapr?style=social&color=white)](https://github.com/maximseshuk/snapr/stargazers)  
+- **[Snapr](https://github.com/maximseshuk/snapr)** [![GitHub_Stars](https://img.shields.io/github/stars/maximseshuk/snapr?style=social&color=white)](https://github.com/maximseshuk/snapr/stargazers)  
   ⚡ *10+ Stars* • Lightweight Go-based self-hosted backup orchestration service. Supports scheduled dumps for PostgreSQL, MySQL, MariaDB, MongoDB, Redis, and SQLite with AES encryption, cloud sync, and web UI management.
 
-- **[Vanguard](https://github.com/Kadantte/vanguards)** [![GitHub stars](https://img.shields.io/github/stars/Kadantte/vanguards?style=social&color=white)](https://github.com/Kadantte/vanguards/stargazers)  
+- **[Vanguard](https://github.com/Kadantte/vanguards)** [![GitHub_Stars](https://img.shields.io/github/stars/Kadantte/vanguards?style=social&color=white)](https://github.com/Kadantte/vanguards/stargazers)  
   ⚡ *Community* • Open-source Laravel-based server and application backup solution. Offers scheduled job queues, granular notifications (Email, Discord, Slack, Pushover), 2FA authentication, and encrypted offsite storage.
 
-- **[DaliBackup-OSS](https://github.com/daliranas/DaliBackup-OSS)** [![GitHub stars](https://img.shields.io/github/stars/daliranas/DaliBackup-OSS?style=social&color=white)](https://github.com/daliranas/DaliBackup-OSS/stargazers)  
+- **[DaliBackup-OSS](https://github.com/daliranas/DaliBackup-OSS)** [![GitHub_Stars](https://img.shields.io/github/stars/daliranas/DaliBackup-OSS?style=social&color=white)](https://github.com/daliranas/DaliBackup-OSS/stargazers)  
   ⚡ *Community* • Sovereign Docker-ready DR orchestration supporting Microsoft Hyper-V (VSS consistent), Proxmox VE (QEMU & LXC), and IMAP mailboxes with zero-trust AES-256-GCM encryption.
 
 ---
